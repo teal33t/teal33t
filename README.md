@@ -11,5 +11,3 @@ I am a Senior Software Developer with over 10 years of experience, my technical 
 - [Telegram](http://t.me/samanesmaeil)
 - [Academia](https://feazad.academia.edu/SamanIsmael)
 - [AskUbuntu](https://askubuntu.com/users/40751/teal33t)
-
-Thank you for visiting! Feel free to explore my work, star the repositories you find useful, and don't hesitate to reach out!
